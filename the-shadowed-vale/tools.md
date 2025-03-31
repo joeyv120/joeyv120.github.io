@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tools
-parent: Second Edition
+parent: The Shadowed Vale
 has_children: true
 nav_order: 4
 ---

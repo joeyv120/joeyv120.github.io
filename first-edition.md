@@ -1,7 +1,7 @@
 ---
 layout: default
 title: First Edition
-nav_order: 7
+nav_order: 
 has_children: true
 ---
 

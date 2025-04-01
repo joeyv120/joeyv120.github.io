@@ -2,7 +2,7 @@
 layout: default
 title: About the Example Party
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: The Shadowed Vale
 ---
 
 # About the Example Party

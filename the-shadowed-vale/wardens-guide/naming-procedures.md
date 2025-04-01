@@ -2,7 +2,7 @@
 layout: default
 title: Naming Procedures
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: The Shadowed Vale
 ---
 
 # Naming Procedures

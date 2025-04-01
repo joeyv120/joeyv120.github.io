@@ -2,7 +2,7 @@
 layout: default
 title: Core Rules
 parent: Player's Guide
-grand_parent: Second Edition
+grand_parent: The Shadowed Vale
 ---
 
 # Core Rules

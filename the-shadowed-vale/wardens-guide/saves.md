@@ -2,7 +2,7 @@
 layout: default
 title: Saves
 parent: Warden's Guide 
-grand_parent: Second Edition
+grand_parent: The Shadowed Vale
 ---
 
 # Saves

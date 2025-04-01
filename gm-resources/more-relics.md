@@ -130,7 +130,7 @@ The following is a list of Relics from all over the web, copied with permission.
 
 ### From The NSR Discord
 ### Last Breath, shortsword, d8 damage, 1 charge
-- Plunging **Last Breath** into the ground creates an [_Astral Prison_](/cairn-srd#100-spells) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
+- Plunging **Last Breath** into the ground creates an [_Astral Prison_](/the-shadowed-vale/wardens-guide/spellbooks) around the bearer. The bearer is invulnerable to harm but unable to move while contained in the prison.
 - **Recharge**: Feed it the souls it needs to build the prison.
 
 ### Sword of the Holy Knight (d6), d6 charges

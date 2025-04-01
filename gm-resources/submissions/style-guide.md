@@ -7,11 +7,8 @@ parent: Submissions
 
 # Style Guide
 
-The following guides describe the expected format for submissions to the Cairn website.   
-**All submissions must be written in [markdown](/submissions/submission-guide/#markdown).**
-
 ## Adventures
-- See the [adventure submission template](/submissions/adventure-conversions/#submission-template). 
+- See the [adventure submission template](/gm-resources/submissions/adventure-conversions/#submission-template). 
 - Please follow the [monsters](#monsters) and [relics](#relics) guidelines for inclusion in the conversion. 
 
 ## Relics
@@ -38,7 +35,7 @@ Relics utilize the following template:
 - Note the Front Matter (starting with `---`) at the beginning, and the empty line at the end. 
 - Note the space between the Monster Name, the stats, and the special entries.
 - Include every ability score, _even if they are only 10_. 
-- For an example, see [here](/resources/monsters/acolyte) and the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
+- For an example, see the raw text [here](https://github.com/yochaigal/cairn/blob/main/resources/monsters/acolyte.md)
 - Monster submissions to the website (distinct from an adventure conversion) must utilize the following format.
 
 

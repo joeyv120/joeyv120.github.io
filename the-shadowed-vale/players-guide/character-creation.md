@@ -11,23 +11,23 @@ grand_parent: The Shadowed Vale
 
 - First, roll or choose from the [Backgrounds](#backgrounds) table below and note the page number. You will refer to that page for the next few steps.
 - Choose a name from the available list, then record each of your character's starting items. See [Inventory](#inventory) and [Inventory Slots](#inventory-slots) for how to record items. 
-- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/second-edition/players-guide/marketplace) as well.
+- Roll on each of the included tables in the background. Record your character's items, skills, or abilities from each result. Some backgrounds may ask you to refer to the tables in the [Marketplace](/the-shadowed-vale/players-guide/marketplace) as well.
 
 ## Backgrounds
 
 |         |                                                                                 |        |                                                                             |
 | ------- | ------------------------------------------------------------------------------- | ------ | --------------------------------------------------------------------------- |
 | **d20** | **Background**                                                                  |        |                                                                             |
-| **1**   | [Aurifex](/second-edition/backgrounds/aurifex)               | **11** | [Half-Witch](/second-edition/backgrounds/half-witch)     |
-| **2**   | [Barber-Surgeon](/second-edition/backgrounds/barber-surgeon) | **12** | [Hexenbane](/second-edition/backgrounds/hexenbane)       |
-| **3**   | [Beast Handler](/second-edition/backgrounds/beast-handler)   | **13** | [Jongleur](/second-edition/backgrounds/jongleur/)        |
-| **4**   | [Bonekeeper](/second-edition/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/second-edition/backgrounds/kettlewright) |
-| **5**   | [Cutpurse](/second-edition/backgrounds/cutpurse)             | **15** | [Marchguard](/second-edition/backgrounds/marchguard/)    |
-| **6**   | [Fieldwarden](/second-edition/backgrounds/fieldwarden/)      | **16** | [Mountebank](/second-edition/backgrounds/mountebank)     |
-| **7**   | [Fletchwind](/second-edition/backgrounds/fletchwind)         | **17** | [Outrider](/second-edition/backgrounds/outrider)         |
-| **8**   | [Foundling](/second-edition/backgrounds/foundling)           | **18** | [Prowler](/second-edition/backgrounds/prowler)           |
-| **9**   | [Fungal Forager](/second-edition/backgrounds/fungal-forager) | **19** | [Rill Runner](/second-edition/backgrounds/rill-runner)   |
-| **10**  | [Greenwise](/second-edition/backgrounds/greenwise/)          | **20** | [Scrivener](/second-edition/backgrounds/scrivener)       |
+| **1**   | [Aurifex](/the-shadowed-vale/backgrounds/aurifex)               | **11** | [Half-Witch](/the-shadowed-vale/backgrounds/half-witch)     |
+| **2**   | [Barber-Surgeon](/the-shadowed-vale/backgrounds/barber-surgeon) | **12** | [Hexenbane](/the-shadowed-vale/backgrounds/hexenbane)       |
+| **3**   | [Beast Handler](/the-shadowed-vale/backgrounds/beast-handler)   | **13** | [Jongleur](/the-shadowed-vale/backgrounds/jongleur/)        |
+| **4**   | [Bonekeeper](/the-shadowed-vale/backgrounds/bonekeeper/)        | **14** | [Kettlewright](/the-shadowed-vale/backgrounds/kettlewright) |
+| **5**   | [Cutpurse](/the-shadowed-vale/backgrounds/cutpurse)             | **15** | [Marchguard](/the-shadowed-vale/backgrounds/marchguard/)    |
+| **6**   | [Fieldwarden](/the-shadowed-vale/backgrounds/fieldwarden/)      | **16** | [Mountebank](/the-shadowed-vale/backgrounds/mountebank)     |
+| **7**   | [Fletchwind](/the-shadowed-vale/backgrounds/fletchwind)         | **17** | [Outrider](/the-shadowed-vale/backgrounds/outrider)         |
+| **8**   | [Foundling](/the-shadowed-vale/backgrounds/foundling)           | **18** | [Prowler](/the-shadowed-vale/backgrounds/prowler)           |
+| **9**   | [Fungal Forager](/the-shadowed-vale/backgrounds/fungal-forager) | **19** | [Rill Runner](/the-shadowed-vale/backgrounds/rill-runner)   |
+| **10**  | [Greenwise](/the-shadowed-vale/backgrounds/greenwise/)          | **20** | [Scrivener](/the-shadowed-vale/backgrounds/scrivener)       |
 
 ## Attributes, Hit Protection, and Traits 
 
@@ -43,8 +43,8 @@ grand_parent: The Shadowed Vale
 
 ## Hit Protection
 
-- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/second-edition/players-guide/core-rules#healing--recovery). 
-- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/second-edition/players-guide/core-rules#scars) table.
+- Roll 1d6 to determine your PC's starting **Hit Protection** (HP), which reflects their ability to avoid damage in combat. It does not indicate a character’s health or fortitude, nor do they lose it for very long. See [Healing & Recovery](/the-shadowed-vale/players-guide/core-rules#healing--recovery). 
+- If an attack would take a PC's HP exactly to 0, the player must roll on the [**Scars**](/the-shadowed-vale/players-guide/core-rules#scars) table.
 
 ## Inventory
 
